@@ -156,6 +156,7 @@ header .scroll-down {
 .acticle-video img {
   max-width: 60%;
   min-width: 60%;
+  border-radius: 15px;
 }
 .cnt {
   display: flex;
@@ -180,6 +181,12 @@ header .scroll-down {
   color: #fff;
   margin-top: 100px;
   margin-right: 60px;
+}
+.footer i.fa {
+  display: inline-block;
+  border-radius: 60px;
+  box-shadow: 0px 0px 2px #fff;
+  padding: 0.9em 1em;
 }
 .footer p {
   color: #fff;
